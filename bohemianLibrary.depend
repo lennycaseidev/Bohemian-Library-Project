@@ -1,0 +1,574 @@
+# depslib dependency file v1.0
+1698527402 source:e:\desktop\laboratorio 2\bohemianlibrary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libListasSimples.h"
+	"libStruct.h"
+
+1698331969 e:\desktop\laboratorio 2\bohemianlibrary\prototipadoslib.h
+
+1698334277 source:e:\desktop\laboratorio 2\bohemianlibrary\libstruct.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libListasSimples.h"
+	"libStruct.h"
+
+1698527529 source:e:\desktop\laboratorio 2\bohemianlibrary\liblistassimples.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libListasSimples.h"
+	"libStruct.h"
+
+1698527402 e:\desktop\laboratorio 2\bohemianlibrary\liblistassimples.h
+
+1698526983 e:\desktop\laboratorio 2\bohemianlibrary\libstruct.h
+
+1700315618 source:e:\desktop\bohemianlibrary\liblistassimples.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libListasSimples.h"
+	"validaciones.h"
+
+1700315903 e:\desktop\bohemianlibrary\liblistassimples.h
+	"libLibros.h"
+
+1700742528 source:e:\desktop\bohemianlibrary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libLibros.h"
+	"libFilas.h"
+	"libArboles.h"
+	"libPrestamos.h"
+	"libFilas.h"
+	<time.h>
+	"menu.h"
+	"libPilas.h"
+
+1698935286 source:e:\desktop\bohemianlibrary\libclientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libArboles.h"
+	"libLibros.h"
+	"libClientes.h"
+	"validaciones.h"
+
+1698935268 e:\desktop\bohemianlibrary\libclientes.h
+
+1698703638 source:e:\desktop\bohemianlibrary\pila.c
+	"pila.h"
+
+1698703124 e:\desktop\bohemianlibrary\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1698709572 source:c:\users\gc\desktop\bohemianlibrary\libclientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libClientes.h"
+	"validaciones.h"
+	"libLibros.h"
+
+1698935268 c:\users\gc\desktop\bohemianlibrary\libclientes.h
+
+1700315620 source:c:\users\gc\desktop\bohemianlibrary\liblistassimples.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libListasSimples.h"
+	"validaciones.h"
+
+1700317455 c:\users\gc\desktop\bohemianlibrary\liblistassimples.h
+	"libLibros.h"
+
+1700704404 source:c:\users\gc\desktop\bohemianlibrary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libLibros.h"
+	"libFilas.h"
+	"libArboles.h"
+	"libPrestamos.h"
+	"libFilas.h"
+	<time.h>
+	"menu.h"
+	"libPilas.h"
+
+1698703124 c:\users\gc\desktop\bohemianlibrary\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1698703638 source:c:\users\gc\desktop\bohemianlibrary\pila.c
+	"pila.h"
+
+1700676952 source:c:\users\gc\desktop\bohemianlibrary\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libArboles.h"
+	"validaciones.h"
+	"libPrestamos.h"
+
+1700514078 c:\users\gc\desktop\bohemianlibrary\validaciones.h
+
+1700701508 c:\users\gc\desktop\bohemianlibrary\liblibros.h
+
+1700701438 source:c:\users\gc\desktop\bohemianlibrary\liblibros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libLibros.h"
+	"validaciones.h"
+
+1700514078 e:\desktop\bohemianlibrary\validaciones.h
+
+1700705930 e:\desktop\bohemianlibrary\liblibros.h
+
+1700714392 source:e:\desktop\bohemianlibrary\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libArboles.h"
+	"validaciones.h"
+	"libPrestamos.h"
+
+1700716472 source:e:\desktop\bohemianlibrary\liblibros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libLibros.h"
+	"validaciones.h"
+
+1698935285 source:c:\users\usuario\desktop\bohemianlibrary\libclientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libArboles.h"
+	"libLibros.h"
+	"libClientes.h"
+	"validaciones.h"
+
+1698935267 c:\users\usuario\desktop\bohemianlibrary\libclientes.h
+
+1700514078 c:\users\usuario\desktop\bohemianlibrary\validaciones.h
+
+1700705929 c:\users\usuario\desktop\bohemianlibrary\liblibros.h
+
+1698927508 source:c:\users\usuario\desktop\bohemianlibrary\liblistassimples.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libListasSimples.h"
+	"validaciones.h"
+
+1698864944 c:\users\usuario\desktop\bohemianlibrary\liblistassimples.h
+	"libLibros.h"
+
+1700742526 source:c:\users\usuario\desktop\bohemianlibrary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libLibros.h"
+	"libFilas.h"
+	"libArboles.h"
+	"libPrestamos.h"
+	"libFilas.h"
+	<time.h>
+	"menu.h"
+	"libPilas.h"
+
+1698703124 c:\users\usuario\desktop\bohemianlibrary\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1698703638 source:c:\users\usuario\desktop\bohemianlibrary\pila.c
+	"pila.h"
+
+1700714391 source:c:\users\usuario\desktop\bohemianlibrary\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libArboles.h"
+	"validaciones.h"
+	"libPrestamos.h"
+
+1700716470 source:c:\users\usuario\desktop\bohemianlibrary\liblibros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libLibros.h"
+	"validaciones.h"
+
+1700735474 source:c:\users\usuario\desktop\bohemianlibrary\libarboles.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libArboles.h"
+	"validaciones.h"
+	"libPilas.h"
+
+1700714191 source:c:\users\usuario\desktop\bohemianlibrary\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libLibros.h"
+	"libArboles.h"
+	"validaciones.h"
+	"libPrestamos.h"
+
+1700679454 c:\users\usuario\desktop\bohemianlibrary\libarboles.h
+	"libPilas.h"
+
+1700735476 source:e:\desktop\bohemianlibrary\libarboles.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libArboles.h"
+	"validaciones.h"
+	"libPilas.h"
+
+1700679454 e:\desktop\bohemianlibrary\libarboles.h
+	"libPilas.h"
+
+1700714192 source:e:\desktop\bohemianlibrary\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libLibros.h"
+	"libArboles.h"
+	"validaciones.h"
+	"libPrestamos.h"
+
+1700739678 source:e:\desktop\bohemianlibrary\libprestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libLibros.h"
+	"libPrestamos.h"
+	"libArboles.h"
+	"validaciones.h"
+
+1700700266 e:\desktop\bohemianlibrary\libprestamos.h
+	"libArboles.h"
+	"libLibros.h"
+
+1700739676 source:c:\users\usuario\desktop\bohemianlibrary\libprestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libLibros.h"
+	"libPrestamos.h"
+	"libArboles.h"
+	"validaciones.h"
+
+1700700266 c:\users\usuario\desktop\bohemianlibrary\libprestamos.h
+	"libArboles.h"
+	"libLibros.h"
+
+1700676336 source:c:\users\gc\desktop\bohemianlibrary\libprestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libLibros.h"
+	"libPrestamos.h"
+	"libArboles.h"
+	"validaciones.h"
+
+1700700266 c:\users\gc\desktop\bohemianlibrary\libprestamos.h
+	"libArboles.h"
+	"libLibros.h"
+
+1700679454 c:\users\gc\desktop\bohemianlibrary\libarboles.h
+	"libPilas.h"
+
+1700705026 source:c:\users\gc\desktop\bohemianlibrary\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libLibros.h"
+	"libArboles.h"
+	"validaciones.h"
+	"libPrestamos.h"
+
+1700680708 source:c:\users\gc\desktop\bohemianlibrary\libarboles.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libArboles.h"
+	"validaciones.h"
+	"libPilas.h"
+
+1700742474 source:e:\desktop\bohemianlibrary\libfilas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libFilas.h"
+	"libPrestamos.h"
+
+1700742498 e:\desktop\bohemianlibrary\libfilas.h
+	"libPrestamos.h"
+
+1700680182 e:\desktop\bohemianlibrary\menu.h
+
+1700518622 source:c:\users\gc\desktop\bohemianlibrary\libfilas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libFilas.h"
+	"libPrestamos.h"
+
+1700518540 c:\users\gc\desktop\bohemianlibrary\libfilas.h
+	"libPrestamos.h"
+
+1700680182 c:\users\gc\desktop\bohemianlibrary\menu.h
+
+1700704489 source:c:\users\gc\desktop\bohemianlibrary\libpilas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libPilas.h"
+
+1700680136 c:\users\gc\desktop\bohemianlibrary\libpilas.h
+
+1700680136 e:\desktop\bohemianlibrary\libpilas.h
+
+1700715824 source:e:\desktop\bohemianlibrary\libpilas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libPilas.h"
+
+1700715962 source:c:\users\matias\desktop\bohemianlibrary\libarboles.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libArboles.h"
+	"validaciones.h"
+	"libPilas.h"
+
+1700679454 c:\users\matias\desktop\bohemianlibrary\libarboles.h
+	"libPilas.h"
+
+1700680136 c:\users\matias\desktop\bohemianlibrary\libpilas.h
+
+1700514078 c:\users\matias\desktop\bohemianlibrary\validaciones.h
+
+1700705497 source:c:\users\matias\desktop\bohemianlibrary\libfilas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libFilas.h"
+	"libPrestamos.h"
+
+1700518540 c:\users\matias\desktop\bohemianlibrary\libfilas.h
+	"libPrestamos.h"
+
+1700700266 c:\users\matias\desktop\bohemianlibrary\libprestamos.h
+	"libArboles.h"
+	"libLibros.h"
+
+1700705929 c:\users\matias\desktop\bohemianlibrary\liblibros.h
+
+1700716470 source:c:\users\matias\desktop\bohemianlibrary\liblibros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libLibros.h"
+	"validaciones.h"
+
+1700715822 source:c:\users\matias\desktop\bohemianlibrary\libpilas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libPilas.h"
+
+1700716766 source:c:\users\matias\desktop\bohemianlibrary\libprestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libLibros.h"
+	"libPrestamos.h"
+	"libArboles.h"
+	"validaciones.h"
+
+1700714218 source:c:\users\matias\desktop\bohemianlibrary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libLibros.h"
+	"libFilas.h"
+	"libArboles.h"
+	"libPrestamos.h"
+	"libFilas.h"
+	<time.h>
+	"menu.h"
+	"libPilas.h"
+
+1700680182 c:\users\matias\desktop\bohemianlibrary\menu.h
+
+1700714391 source:c:\users\matias\desktop\bohemianlibrary\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libArboles.h"
+	"validaciones.h"
+	"libPrestamos.h"
+
+1700714191 source:c:\users\matias\desktop\bohemianlibrary\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libLibros.h"
+	"libArboles.h"
+	"validaciones.h"
+	"libPrestamos.h"
+
+1700742473 source:c:\users\usuario\desktop\bohemianlibrary\libfilas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libFilas.h"
+	"libPrestamos.h"
+
+1700742496 c:\users\usuario\desktop\bohemianlibrary\libfilas.h
+	"libPrestamos.h"
+
+1700680136 c:\users\usuario\desktop\bohemianlibrary\libpilas.h
+
+1700715822 source:c:\users\usuario\desktop\bohemianlibrary\libpilas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libPilas.h"
+
+1700680182 c:\users\usuario\desktop\bohemianlibrary\menu.h
+
+1707590832 source:c:\users\lenny\onedrive\desktop\bohemianlibrary\bohemianlibrary\libarboles.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libArboles.h"
+	"validaciones.h"
+	"libPilas.h"
+
+1707590832 c:\users\lenny\onedrive\desktop\bohemianlibrary\bohemianlibrary\libarboles.h
+	"libPilas.h"
+
+1707590832 c:\users\lenny\onedrive\desktop\bohemianlibrary\bohemianlibrary\libpilas.h
+
+1707590833 c:\users\lenny\onedrive\desktop\bohemianlibrary\bohemianlibrary\validaciones.h
+
+1707590832 source:c:\users\lenny\onedrive\desktop\bohemianlibrary\bohemianlibrary\libfilas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libFilas.h"
+	"libPrestamos.h"
+
+1707590832 c:\users\lenny\onedrive\desktop\bohemianlibrary\bohemianlibrary\libfilas.h
+	"libPrestamos.h"
+
+1707590832 c:\users\lenny\onedrive\desktop\bohemianlibrary\bohemianlibrary\libprestamos.h
+	"libArboles.h"
+	"libLibros.h"
+
+1707590832 c:\users\lenny\onedrive\desktop\bohemianlibrary\bohemianlibrary\liblibros.h
+
+1707590832 source:c:\users\lenny\onedrive\desktop\bohemianlibrary\bohemianlibrary\liblibros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libLibros.h"
+	"validaciones.h"
+
+1707590832 source:c:\users\lenny\onedrive\desktop\bohemianlibrary\bohemianlibrary\libpilas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libPilas.h"
+
+1707590832 source:c:\users\lenny\onedrive\desktop\bohemianlibrary\bohemianlibrary\libprestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libLibros.h"
+	"libPrestamos.h"
+	"libArboles.h"
+	"validaciones.h"
+
+1707590832 source:c:\users\lenny\onedrive\desktop\bohemianlibrary\bohemianlibrary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libLibros.h"
+	"libFilas.h"
+	"libArboles.h"
+	"libPrestamos.h"
+	"libFilas.h"
+	<time.h>
+	"menu.h"
+	"libPilas.h"
+
+1707590833 c:\users\lenny\onedrive\desktop\bohemianlibrary\bohemianlibrary\menu.h
+
+1707590833 source:c:\users\lenny\onedrive\desktop\bohemianlibrary\bohemianlibrary\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libLibros.h"
+	"libArboles.h"
+	"validaciones.h"
+	"libPrestamos.h"
+
+1707590833 source:c:\users\lenny\onedrive\desktop\bohemianlibrary\bohemianlibrary\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"libArboles.h"
+	"validaciones.h"
+	"libPrestamos.h"
+
